@@ -31,5 +31,3 @@ The checkpoint file against each training is provided along with the results. <b
 There are two variables in the *infer script* named `DATASET` and `DATASET_MODEL`. You need to change both to one of the **six possible names**: PETA, RAP, PA100k, peta_frontal, rap_frontal, or pa100k_frontal.
 For testing, use the model for each dataset and change the path in `MODEL_CKPTS` in the *infer script*. Then run the following command : <br>
 `bash infer.sh`
-
-# Example 
