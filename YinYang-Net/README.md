@@ -5,7 +5,7 @@
 `pip install -r requirements.txt`
 
 # Creating Datasets
-There are 6 datasets used in the experiments. Three parent datasets : PETA, RAP, PA100k and three derived datasets : peta_frontal, rap_frontal, pa100k_frontal. <br>
+There are 6 datasets used in the experiments. Three parent datasets : [PETA](), [RAP](), [PA100k]() and three derived datasets : peta_frontal, rap_frontal, pa100k_frontal. <br>
 The direct download-able links are provided. Arrange the data by following the given tree directory : 
 ```
 data
@@ -34,12 +34,12 @@ For testing, use the model for each dataset and change the path in `MODEL_CKPTS`
 The checkpoints for each dataset is provided in the following table : 
 | Dataset        | mA    | model       |
 |----------------|-------|-------------|
-| PETA           | 93.39 | [checkpoints]() |
-| PETA<sub>Frontal</sub>     | 93.45 | [checkpoints]() |
-| PA-100K        | 91.20 | [checkpoints]() |
-| PA-100K<sub>Frontal</sub> | 92.79 | [checkpoints]() |
-| RAP            | 96.86 | [checkpoints]() |
-| RAP<sub>Frontal</sub>    | 97.07 | [checkpoints]() |
+| PETA           | 92.88 | [checkpoints]() |
+| PETA<sub>Frontal</sub>     | 92.18 | [checkpoints]() |
+| PA-100K        | 90.76 | [checkpoints]() |
+| PA-100K<sub>Frontal</sub> | 92.70 | [checkpoints]() |
+| RAP            | 95.95 | [checkpoints]() |
+| RAP<sub>Frontal</sub>    | 96.56 | [checkpoints]() |
 ---
 
 # Example
