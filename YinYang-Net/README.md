@@ -1,3 +1,5 @@
+# Introduction
+This repository corresponds to the paper #4 [YinYang-Net: Complementing Face and Body Information for Wild Gender Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730882&tag=1)
 # Environment and Dependencies
 1. Create conda environment with python version : **3.7.6**<br>
 `conda create -n env_name python=3.7.6`
