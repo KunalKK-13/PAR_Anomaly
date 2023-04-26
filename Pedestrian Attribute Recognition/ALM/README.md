@@ -43,3 +43,9 @@ The models are provided to run the test script.
 # Experiment
 Change the `experiment` argument to peta, rap and pa100k accordingly. Then run the following script : <br><br>
 `python main.py --approach=inception_iccv --experiment=rap -e --resume='model_path'`
+
+# Example
+1. Modify the arguments for RAP dataset : <br> 
+`python main.py --approach=inception_iccv --experiment=rap -e --resume='rap.pth.tar'` <br><br>
+2. Test Result : 
+
