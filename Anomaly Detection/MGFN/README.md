@@ -18,10 +18,12 @@ data
 
 # Testing the model
 1. The pretrained model is provided in the following table : 
-| Dataset        | AUC(%)   | model       |
-|----------------|-------|-------------|
-| UCF-Crime         | 92.88 | [checkpoints]() |
 
----
-2. To test the model on the dataset, run the following command : 
-`$ python test.py ----rgb-list='data-path/ucf_tencrop_1d/ucf-i3d.list' --test-rgb-list='data/ucf_tencrop_1d/ucf-i3d-test.list' --gt='data/ucf_tencrop_1d/gt-ucf.npy'`
+| Dataset      | AUC(%)       | Link                                                                                           |
+| ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
+| UCF-Crime    |   86.98      | [Model](https://drive.google.com/file/d/1Tb1Q1AVpzWukaP7u9q2Zk1E_hk8cswps/view?usp=sharing)    |
+
+
+
+2. To test the model on the dataset, run the following command : <br><br>
+`$ python test.py ----rgb-list='data-path/ucf_tencrop_1d/ucf-i3d.list' --test-rgb-list='data-path/ucf_tencrop_1d/ucf-i3d-test.list' --gt='data-path/ucf_tencrop_1d/gt-ucf.npy'`
