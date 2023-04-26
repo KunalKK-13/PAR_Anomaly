@@ -1,3 +1,5 @@
+#Introduction
+This repository corresponds to the paper #6 [Improving Pedestrian Attribute Recognition With Weakly-Supervised Multi-Scale Attribute-Specific Localization](https://arxiv.org/abs/1910.04562)
 # Environment and Dependencies
 1. Python version = 3.6+
 2. Pytorch version = 0.4+
