@@ -4,6 +4,8 @@
 
 # Creating Datasets
 
+1. Change the *data-path* in the *utils/datasets.py* file in line 183-197
+
 # Pretrained Models
 The models are provided to run the test script.
 | Dataset | mA    | Link                                                         |
