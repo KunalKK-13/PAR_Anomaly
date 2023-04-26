@@ -36,9 +36,9 @@ data
 The models are provided to run the test script.
 | Dataset | mA    | Link                                                         |
 | ------- | ----- | ------------------------------------------------------------ |
-| PETA    | 86.34 | [Model]() |
-| RAP     | 81.86 | [Model]() |
-| PA-100K | 80.45 | [Model]() |
+| PETA    | 86.34 | [Model](https://drive.google.com/file/d/14A94X4jE92lyWAZcQhf4kzL41g37-WGD/view?usp=share_link) |
+| RAP     | 81.86 | [Model](https://drive.google.com/file/d/1NAw4FeviwRcTYDCle-UvVHUbWbeGYFVZ/view?usp=share_link) |
+| PA-100K | 80.45 | [Model](https://drive.google.com/file/d/1OILuMucSs7x7U7Nab-bYl-D_6OWHkjN0/view?usp=sharing) |
 
 # Experiment
 Change the `experiment` argument to peta, rap and pa100k accordingly. Then run the following script : <br><br>
