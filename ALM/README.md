@@ -3,8 +3,32 @@
 2. Pytorch version = 0.4+
 
 # Creating Datasets
+1. Download the data from the following links : [PETA](), [RAP](), [PA100K]()
+2. Arrange the data directory in the following tree structure : 
+```
+data
+|--peta
+|   |--PETA_dataset
+    |   |--3DPeS
+        |--CAVIAR4REID
+        |--CUHK
+        |--GRID
+        |--i-LID
+        |--MIT
+        |--PRID
+        |--SARC3D
+        |--TownCentre
+        |--VIPeR
+|--rap
+|   |--RAP_dataset
+    |--RAP_annotation
+    |   |--RAP_annotation.mat
+        |--rap_evaluation.m
+        |--ReadMe.txt
+|--pa100k
 
-1. Change the `data-path` in the `utils/datasets.py` file in line 183-197
+```
+4. Change the `data-path` in the `utils/datasets.py` file in line 183-197
 
 # Pretrained Models
 The models are provided to run the test script.
