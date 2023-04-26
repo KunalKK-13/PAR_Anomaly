@@ -48,4 +48,4 @@ Change the `experiment` argument to peta, rap and pa100k accordingly. Then run t
 1. Modify the arguments for RAP dataset : <br> 
 `python main.py --approach=inception_iccv --experiment=rap -e --resume='./rap.pth.tar'` <br><br>
 2. Test Result : 
-
+<img src="imgs/rap-res.jpg">
