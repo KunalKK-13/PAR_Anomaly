@@ -38,7 +38,12 @@ The models are provided to run the test script.
 | PA-100K | 82.54 | [Model]()                                                    |
 
 # Experiment
-
+Training the model : <br>
+`python train.py *dataset-name*`
 
 # Example
+1. Train the model using RAP dataset : <br>
+`python train.py RAP`
+
+2. The test result for RAP dataset is obtained in a `.txt` log file.
 
