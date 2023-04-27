@@ -8,7 +8,7 @@ Install the dependencies : <br>
 
 # Creating Datasets
 1. Download the data from the following links : [RAP(v1)](), [PA100K]()
-2. 5. The Image-Net pretrained model [ViT-Base](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth) 
+2. The Image-Net pretrained model [ViT-Base](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth) 
 needs to be downloaded for pretraining.
 3. Put the pretrained model in a diretory `./checkpoints/jx_vit_base_p16_224-80ecf9dd.pth`
 4. Arrange the data directory in the following tree structure : 
