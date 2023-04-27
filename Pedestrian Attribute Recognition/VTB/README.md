@@ -46,4 +46,4 @@ Training the model : <br>
 `python train.py RAP`
 
 2. The test result for RAP dataset is obtained in a `.txt` log file.
-
+<img src="imgs/rap-res.jpg">
