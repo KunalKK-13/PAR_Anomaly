@@ -34,8 +34,8 @@ dataset
 The models are provided to run the test script.
 | Dataset | mA    | Link                                                         |
 | ------- | ----- | ------------------------------------------------------------ |
-| RAP     | 81.73 | [Model]()                                                    |
-| PA-100K | 82.54 | [Model]()                                                    |
+| RAP     | 81.73 | [Model](https://drive.google.com/file/d/18_egQa9Pk0B98dw897JS5JXkLf4StsB0/view?usp=sharing)                                                    |
+| PA-100K | 82.54 | [Model](https://drive.google.com/file/d/1AWSg5YEaXFJTi0EXm8FjKy0x0QCVr2oa/view?usp=sharing)                                                    |
 
 # Experiment
 Training the model : <br>
