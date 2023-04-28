@@ -13,7 +13,7 @@ data
 
 | Dataset      | AUC(%)       | Link                                                                                           |
 | ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
-| UCF-Crime    |         | [Model](https://drive.google.com/file/d/1lq2VvOIYbO_fs9Aimqt3TIKTerhFADw9/view?usp=sharing)    |
+| UCF-Crime    |   73.52      | [Model](https://drive.google.com/file/d/1lq2VvOIYbO_fs9Aimqt3TIKTerhFADw9/view?usp=sharing)    |
 
 
 
