@@ -18,11 +18,11 @@ DATA
 ```
 
 # Testing the model
-1. The pretrained model is provided in the following table : 
+1. The following result was obtained after 75 epochs : 
 
-| Dataset      | AUC(%)       | Link                                                                                           |
-| ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
-| UCF-Crime    |   84.45      | [Model]   |
+| Dataset      | AUC(%)       |
+| ------------ | ------------ | 
+| UCF-Crime    |   84.45      |
 
 
 
