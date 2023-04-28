@@ -20,7 +20,7 @@ dataset
     |--gt_bbox
     |--gt_query
     |--query
-    |==readme.txt
+    |--readme.txt
     |--attribute
     |   |--market_attribute.mat
 
