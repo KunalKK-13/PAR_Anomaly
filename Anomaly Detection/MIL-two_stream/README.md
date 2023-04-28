@@ -18,13 +18,15 @@ DATA
 ```
 
 # Testing the model
-1. The pretrained model is provided in the following table : 
+1. The following result was obtained after 75 epochs : 
 
-| Dataset      | AUC(%)       | Link                                                                                           |
-| ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
-| UCF-Crime    |   84.45      | [Model]   |
+| Dataset      | AUC(%)       |
+| ------------ | ------------ | 
+| UCF-Crime    |   84.45      |
 
 
 
 2. To test the model on the dataset, run the following command : <br>
-`$ python main.py`
+`$ python main.py` <br><br>
+
+<img src="imgs/peta-test-res.jpg">
