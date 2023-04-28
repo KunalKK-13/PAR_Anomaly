@@ -38,4 +38,4 @@ Training the model : <br>
 
 # Example
 The test result for MARS dataset is obtained : <br>
-<img src="imgs/rap-res.jpg">
+<img src="imgs/mars-res.jpg">
