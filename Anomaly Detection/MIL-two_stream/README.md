@@ -29,4 +29,4 @@ DATA
 2. To test the model on the dataset, run the following command : <br>
 `$ python main.py` <br><br>
 
-<img src="imgs/peta-test-res.jpg">
+<img src="imgs/ucf-res.jpg">
