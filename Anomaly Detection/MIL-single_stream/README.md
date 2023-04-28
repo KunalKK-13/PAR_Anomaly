@@ -31,7 +31,7 @@ c3d_features/test/RGB/
 | ------------ | ------------ | ---------------------------------------------------------------------------------------------- |
 | UCF-Crime    |   73.52      | [Model](https://drive.google.com/file/d/1lq2VvOIYbO_fs9Aimqt3TIKTerhFADw9/view?usp=sharing)    |
 
+2. The pretrained model is saved in the workspace as `/workspace/ckpt/deepmil15.pkl`
 
-
-2. To test the model on the dataset, run the following command : <br><br>
+3. To test the model on the dataset, run the following command : <br><br>
 `python infer.py`
