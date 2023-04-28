@@ -34,10 +34,10 @@ dataset
 | ------- | ----- | ------------------------------------------------------------ |
 | Market-1501_Attribute     | 81.73 | [Model](https://drive.google.com/file/d/19e3YvAhlXGHTXAfzCS9zW8Y-dm0p9gMJ/view?usp=share_link)                                                    |
 
-2. Download the model and move it to the `checkpoints` folder in the project directory.
+2. Download the model and put it in a directory `checkpoints/market/resnet50_nfc` folder in the project directory.
 
 
 # Experiment
 Run the following command to test the pretrained model on the Market-1501_attribute dataset : <br><br>
-`python3  test.py   --data-path  ~/dataset  --dataset  [market]  --model  resnet50  [--print-table]`
+`python  test.py   --data-path='path-to-data/'  --dataset=market --backbone=resnet50  --print-table`
 
