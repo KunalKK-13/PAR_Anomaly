@@ -32,7 +32,7 @@ dataset
 
 | Dataset | mA    | Link                                                         |
 | ------- | ----- | ------------------------------------------------------------ |
-| Market-1501_Attribute     | 81.73 | [Model](https://drive.google.com/file/d/19e3YvAhlXGHTXAfzCS9zW8Y-dm0p9gMJ/view?usp=share_link)                                                    |
+| Market-1501_Attribute     | 91.77 | [Model](https://drive.google.com/file/d/19e3YvAhlXGHTXAfzCS9zW8Y-dm0p9gMJ/view?usp=share_link)                                                    |
 
 2. Download the model and put it in a directory `checkpoints/market/resnet50_nfc` folder in the project directory.
 
