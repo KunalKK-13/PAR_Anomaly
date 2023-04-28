@@ -29,16 +29,13 @@ data
 The models are provided to run the test script.
 | Dataset | mA    | Link                                                         |
 | ------- | ----- | ------------------------------------------------------------ |
-| RAP     | 81.73 | [Model]()                                                    |
-| PA-100K | 82.54 | [Model]()                                                    |
+| MARS    | 86.46 | [Model]()                                                    |
+
 
 # Experiment
 Training the model : <br>
 `python -u main_video_attr_recog.py --arch=attr_resnet50tp --model_type="ta" -d mars`
 
 # Example
-1. Train the model using RAP dataset : <br>
-`python train.py RAP`
-
-2. The test result for RAP dataset is obtained in a `.txt` log file.
+The test result for MARS dataset is obtained : <br>
 <img src="imgs/rap-res.jpg">
